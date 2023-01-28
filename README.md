@@ -12,7 +12,7 @@ I am a Computer Science student at PUCIT (3rd Semester), mainly focusing on Full
 * 🤝  I'm open to collaborating on Frontend Projects
 
 <a href="https://www.github.com/Hassaan-here" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Hassaan-here?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><a href="https://www.twitter.com/itxSaaad" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Hassaan-here?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><a href="https://www.twitter.com/Hassaan85" target="_blank" rel="noreferrer"><img
 src="https://twitter.com/hassaan854"
 /></a>
 
