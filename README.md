@@ -2,7 +2,7 @@
 
 # Hi, I'm Muhammad Hassaan Munir 👋
 
-### Backend Developer · Laravel & PHP · Full-Stack in Progress
+### Backend Developer · Laravel & PHP 
 
 I build reliable, well-structured backend systems — and I'm steadily expanding into modern frontend tooling to deliver complete, end-to-end web solutions.
 
